@@ -20,7 +20,7 @@ There are two primary ways to access the Gemini API:
 Once you have chosen your access method, you can follow these steps to set up the Gemini API:
  1. Install the necessary Python libraries:
 
-    `pip install geminiapi`
+    `pip install google-generativeai`
 
   2. Create a Google Cloud project (if using Platform access):
 
